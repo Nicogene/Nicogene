@@ -39,7 +39,8 @@
   <a href="https://www.microsoft.com/en-US/windows/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="40" height="40"/> </a>
 </p>
 <h3 align="left">My stats 📊</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicogene&layout=compact" alt="Nicogene" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicogene&show_icons=true" alt="Nicogene" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicogene&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="Nicogene" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicogene&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="Nicogene" /></p>
 
