@@ -26,7 +26,11 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/mathworks.svg" alt="mathworks" width="40" height="40"/> </a>  
-  <a href="https://cmake.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="cmake" width="40" height="40"/> </a>  </p>
+  <a href="https://cmake.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="cmake" width="40" height="40"/> </a>
+  <a href="https://www.qt.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qt" width="40" height="40"/> </a>
+  <a href="https://www.yarp.it/" target="_blank"> <img src="https://github.com/robotology/yarp/blob/master/doc/images/yarp-robot-256.png" alt="yarp" width="40" height="40"/> </a>
+  
+</p>
 <h3 align="left">Platforms 🖥️</h3>
 <p align="left">
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
