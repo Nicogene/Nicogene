@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nicolò Genesio </h1>
-<h3 align="center">Software engineeer in Humanoid Robotics and SW Distro Manager at <a href="https://www.iit.it/it/web/icub-tech">iCub-Tech@IIT</></h3>
+<h3 align="center">Senior software engineeer in Humanoid Robotics and SW Distro Manager at <a href="https://www.iit.it/it/web/icub-tech">iCub-Tech@IIT</></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nicogene&label=Profile%20views&color=0e75b6&style=flat" alt="Nicogene" /> </p>
 
