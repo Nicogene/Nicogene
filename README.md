@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nicogene&label=Profile%20views&color=0e75b6&style=flat" alt="Nicogene" /> </p>
 
-<p align="center"> <img src="https://github.com/Nicogene/Nicogene/blob/master/assets/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" /> </p>
+<br>
+
+<p align="center"> <img src="https://github.com/Nicogene/Nicogene/blob/main/assets/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" /> </p>
 
 - 🔭 I’m currently working on **Robotics**
 
